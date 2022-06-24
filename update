@@ -1,3 +1,4 @@
 cd
 rm -rf sm9fetch
+cd
 git clone https://github.com/Hackersm9/sm9fetch
